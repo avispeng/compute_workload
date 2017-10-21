@@ -1,0 +1,4 @@
+Python version: 2.7
+Modules needed: pandas, numpy, xlrd, xlwt, Tkinter
+
+Working well on Windows 10.
